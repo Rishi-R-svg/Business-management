@@ -1,0 +1,1006 @@
+@media (width < 2000px) {
+    header .navbar .navmenu {
+        width: auto;
+    }
+
+    header .navbar {
+        height: 100px;
+        width: 100%;
+    }
+
+    .secondsec {
+        height: auto;
+        margin-bottom: 200px;
+    }
+
+    .secondsec .images {
+        height: 400px;
+        width: 700px;
+    }
+
+    .overlapcircle .num {
+        left: 50px;
+        top: 40px;
+        font-size: 2.5rem;
+    }
+
+    .overlapcircle .text {
+        left: 12px;
+        font-size: 1rem;
+        top: 85px;
+    }
+
+    .secondsec .overlapcircle {
+        height: 150px;
+        width: 150px;
+    }
+
+
+    .images .imageboxa {
+        height: 100%;
+    }
+
+    .images .imagebox2 {
+        height: 100%;
+    }
+
+    .firstsec {
+        height: auto;
+    }
+
+
+    .firstsec .para p {
+        line-height: 50px;
+    }
+
+
+    .secondsec .parabox {
+        width: 80%;
+        padding-left: 0;
+    }
+
+    .gridbox {
+        column-gap: 2rem;
+        padding-left: 0;
+    }
+
+    .secondsec .para {
+        height: auto;
+    }
+
+    .thirdsec {
+        height: auto;
+        margin-bottom: 200px;
+    }
+
+    .thirdsec .gridcontainer {
+        grid-template-rows : 150px 150px
+    }
+
+    .fourthsec {
+        height: auto;
+        margin-bottom: 100px;
+
+    }
+
+    .fourthsec .container {
+       height: 800px;
+       width: 700px;
+    }
+
+    .container .a {
+        left: 0;
+        top: 0;
+        position: absolute;
+    }
+
+    .container .b {
+        left: 250px;
+        position: absolute;
+    }
+
+    .fifthsec {
+        height: auto;
+        margin-bottom: 100px;
+    }
+
+    .fifthsec .lower .item {
+        height: 350px;
+        width: 300px;
+        padding: 20px 30px;
+        row-gap: 1rem;
+        box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    }
+
+    .fifthsec .lower {
+        margin-top: 50px;
+    }
+
+
+    .lower .item .txt {
+        font-size: 1.2rem;
+    }
+
+    .sixsec {
+        height: auto;
+    }
+
+    .a-2 .image-last {
+        height: 600px;
+        width: 600px;
+    }
+
+    .a-2 img {
+        height: 100%;
+        width: 100%;
+    }
+
+    .a-2 .text-last {
+        padding-top: 100px;
+        width: 40%;
+        margin-left: 50px;
+    }
+
+    .sixsec .a-2 {
+        column-gap: 3rem;
+        align-items: start;
+        margin-top: 50px;
+    }
+
+
+    .a-2 .a {
+        top: 0;
+    }
+
+    .a-2 .box {
+        top: 0;
+    }
+
+    .a-2 .b {
+        top: 230px;
+    }
+
+    .sevensec {
+        height: auto;
+        margin: 100px auto;
+        justify-content: center;
+    }
+
+    .backimage {
+        height: 60vh;
+    }
+
+    .overlap .playicon {
+        margin-bottom: 30px;
+    }
+
+    .copy p {
+        margin: 100px auto;
+        text-align: center;
+    }
+
+
+    .upper .para {
+        padding-left: 50px;
+    }
+
+
+    .a-2 .box {
+        height: 30%;
+        width: 40%;
+        left: 67%;
+    }
+
+    
+
+}
+
+
+
+@media (width < 1402px) { 
+    .a-2 .image-last {
+        height: 500px;
+        width: 500px;
+    }
+
+    .a-2 .a {
+        height: 50%;
+        width: 50%;
+    }
+
+    .a-2 .b {
+        height: 20%;
+        width: 30%;
+        left: 60%;
+        top: 34%;
+    }
+
+    .a-2 .box {
+        height: 30%;
+        width: 40%;
+        left: 60%;
+
+    }
+
+    .secondsec .overlapcircle {
+        top: 25%;
+        left: 40%;
+    }
+
+    .para p {
+        padding-right: 20px;
+    }
+
+    .upper {
+        padding: 0 30px;
+    }
+
+    .fifthsec .lower {
+        padding: 0 30px;
+    }
+
+    .thirdsec .gridcontainer {
+        column-gap: 2rem;
+    }
+
+    footer {
+        height: auto;
+    }
+
+    .fourthsec .para {
+        width: 50%;
+        padding-right: 30px;
+    }
+
+    .fourthsec details {
+        width: 80%;
+    }
+
+    
+
+
+}
+
+@media (width < 1354px) {
+    .upper {
+        padding: 0 20px;
+    }
+}
+
+
+
+@media ( width < 1050px) {
+    .navbar ul li {
+        font-size: 1rem;
+    }
+
+    .navbar .navicons ul {
+        margin-right: 10px;
+    }
+
+    .navbar >span {
+        margin-left: 0;
+    }
+
+    .secondsec .parabox {
+        width: 100%;
+        padding-right: 20px;
+    }
+
+    .parabox h3 {
+        font-size: 2.2rem;
+    }
+
+    .para> p {
+        font-size: 1rem;
+    }
+
+    .gridbox p {
+        font-size: 1rem;
+    }
+
+    .gridbox {
+        grid-template-columns: 320px 320px ;
+        width: 100%;
+        gap: 2rem;
+    }
+
+    .secondsec .images {
+        height: 500px;
+        width: 800px;
+    }
+
+    .secondsec {
+        flex-direction: column;
+    }
+
+    .firstsec {
+        margin-bottom: 100px;
+    }
+
+    .secondsec .para {
+        width: 80%;
+        margin-top: 30px;
+        padding-left: 30px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+
+
+    .thirdsec .gridcontainer {
+        grid-template-columns: repeat( auto-fill, minmax(200px,1fr));
+    }
+
+    .item .logo img {
+        top: 0;
+        left: -25%;
+        height: 40px;
+        width: 40px;
+    }
+
+    .fourthsec {
+        flex-direction: column;
+    }
+
+    .fourthsec .para {
+        width: 90%;
+        margin-bottom: 100px;
+
+    }
+
+
+    .fourthsec .para h1 {
+        margin-left: 30px;
+        margin-bottom: 50px;
+    }
+
+    .fourthsec .container {
+        margin: auto;
+    }
+
+    .para h1 {
+        font-size: 2rem;
+    }
+
+    .fifthsec .lower {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+        gap: 1rem;
+    }
+
+    .fifthsec .lower .item {
+        height: auto;
+        width: auto;
+    }
+    
+    
+
+
+}
+
+
+
+@media (width < 907px) {
+    .navbar > span {
+        font-size: 30px;
+    }
+
+    .navicons ul li a {
+        margin-right: 10px;
+    }
+    .firstsec .para h2 {
+        font-size: 2rem;
+    }
+
+
+    .firstsec .para {
+        padding: 50px;
+    }
+
+    .firstsec .image {
+        width: 500px;
+        height: 400px;
+    }
+
+    .firstsec .para p {
+        font-size: 1.2rem;
+        line-height: 30px;
+    }
+
+    .firstsec .two {
+        font-size: 1rem;
+    }
+
+    .firstsec .one {
+        font-size: 1rem;
+    }
+
+    .upper .num {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+
+    .upper .num span {
+       text-align: center;
+       
+    }
+
+    .a-2 .text-last {
+        margin-left: 0;
+        padding-top: 10px;
+    }
+
+    .sixsec .a-3 {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+        gap: 2rem;
+    }
+
+    .a-3 .img2 {
+        height: auto;
+        width: auto;
+    }
+
+    .pari p {
+        font-size: 1.1rem;
+    }
+
+    .sevensec {
+        flex-direction: column;
+    }
+
+    .sevensec .img {
+        height: auto;
+        width: 80%;
+    }
+
+    .sevensec .pari {
+        height: auto;
+        width: 80%;
+        padding: 0;
+        margin-top: 50px;
+    }
+
+    .overlap h1 {
+        font-size: 200%;
+        padding: 0 50px;
+        text-align: center;
+    }
+
+
+    .contact .item span {
+        font-size: 0.8rem;
+    }
+
+    
+}
+
+
+@media (width < 831px) {
+    .navbar ul li a {
+        font-size: 80%;
+    }
+
+    .firstsec .one {
+        padding: 5% 8%;
+    }
+
+    .firstsec .two {
+        padding: 5% 8%;
+    }
+
+    .firstsec {
+        flex-direction: column;
+        position: relative;
+        background: url(back.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        justify-content: center;
+        padding: 100px 50px;
+       
+    }
+
+    .firstsec::after {
+        
+        content: ' ';
+
+        height: 100%;
+        width: 100%;
+        position: absolute;
+        top: 0;
+        left: 0;
+        background-color: rgba(0, 0, 0, 0.4);
+
+
+    }
+    
+
+    .firstsec .para {
+        width: 90%;
+        position: relative;
+        z-index: 1;
+        margin: 0 auto;
+        padding: 0;
+    }
+
+    .firstsec .image {
+        display: none;
+    }
+
+    .firstsec .para h2 {
+        color: white;
+        font-family: Arial, Helvetica, sans-serif;
+        letter-spacing: 3px;
+        font-size: 2.5rem;
+        font-weight: bold;
+    }
+
+
+    .firstsec .one {
+        font-size: 1.2rem;
+    }
+
+    .firstsec .two {
+        font-size: 1.2rem;
+    }
+
+    .firstsec .para p {
+        color: white;
+        font-weight: bold;
+    }
+
+}
+
+
+
+@media (width < 731px ) {
+    header {
+        padding-left: 0;
+    }
+
+    header .navbar {
+        justify-content: space-around;
+    }
+
+    .secondsec .para {
+        width: 90%;
+    }
+
+    .secondsec .images {
+        height: 400px;
+        width: 700px;
+    }
+
+
+    .gridbox p {
+        height: auto;
+        width: auto;
+    }
+
+
+    .gridbox {
+        grid-template-columns: auto auto;
+    }
+
+    .gridbox p span {
+        top: 12%;
+    }
+
+    .fourthsec .container {
+        height: 600px;
+        width: 600px;
+    }
+
+    .a-2 .box p {
+        text-align: center;
+    }
+
+    .sixsec .a-2 {
+        flex-direction: column;
+    }
+
+
+    .sixsec {
+        margin-bottom: 100px;
+    }
+
+
+    .a-2 .image-last {
+        height: 300px;
+        width: 90%;
+    }
+
+    .a-2 .a {
+        height: auto;
+        
+    }
+
+    .a-2 .b {
+        height: auto;
+        top: 50%;
+    }
+
+    .a-2 .box {
+        padding: 30px;
+        height: auto;
+
+
+    }
+
+    .a-2 .text-last {
+        width: 90%;
+        margin-bottom: 200px;
+        padding: 20px;
+    }
+
+    .container .a {
+        width: 30%;
+        height: auto;
+    }
+
+    .container .b {
+        width: 50%;
+        height: auto;
+        left: 35%;
+    }
+
+    .container .c {
+        height: auto;
+        width: 55%;
+        top: 42%;
+    }
+
+    .container .d {
+        height: auto;
+        width: 30%;
+    }
+
+    .fourthsec .container {
+        padding-left: 0;
+    }
+
+    .fourthsec {
+        justify-content: center;
+    }
+
+
+    footer .contact {
+        width: 90%;
+        margin-left: 0;
+    }
+
+
+    footer {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        margin-left: 0;
+    }
+
+    footer .links {
+        margin-top: 50px;
+        width: 100%;
+    }
+
+    footer .links ul {
+        padding-right: 0;
+    }
+
+    .copy p {
+        padding-right: 0;
+        margin-top: 50px;
+        margin-bottom: 20px;
+    }
+}
+
+
+
+@media (width < 666px ) {
+    .navbar > .nmenu {
+        display: none;
+    }
+
+
+    header .ham {
+        display: flex;
+    }
+
+    .upper {
+        flex-direction: column;
+    }
+
+    .upper .para {
+        width: 90%;
+    }
+
+    .fourthsec .container {
+        height: 500px;
+        width: 500px;
+    }
+
+    .container .d {
+        top: 42%;
+        left: 55%;
+    }
+
+
+}
+
+
+
+@media (width < 556px ) {
+    .gridbox p span {
+        left: -10%;
+    }
+
+
+    header .ham {
+        height: 35px;
+        width: 35px;
+    }
+
+
+    .secondsec .images {
+        height: auto;
+        width: 500px;
+    }
+
+    .thirdsec .gridcontainer {
+        height: auto;
+    }
+
+    .fourthsec {
+        padding-left: 0;
+        display: flex;
+        align-items: center;
+    }
+
+    .fourthsec .para {
+        padding-right: 0;
+        width: 90%;
+    }
+
+    .fourthsec details {
+        width: 100%;
+    }
+
+
+    .upper .para {
+        padding-left: 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+
+    .para h1 {
+        font-size: 1.6rem;
+    }
+
+    .para> p {
+        font-size: 1rem;
+        padding-right: 0;
+        display: flex;
+        text-align: center;
+    }
+
+    .upper .num p {
+        height: 40px;
+        width: 40px;
+    }
+
+    footer .contact {
+        margin-left: 0;
+    }
+
+
+    .fourthsec .container {
+        height: 400px;
+        width: 400px;
+    }
+}
+
+
+
+
+@media ( width < 490px) {
+    .fourthsec .container {
+        display: block;
+        padding-left: 20px;
+        height: auto;
+      
+
+    }
+
+    .container .a{
+        position: static;
+        height: auto;
+        width: auto;
+    }
+
+    .container .b {
+        position: static;
+        height: auto;
+        width: auto;
+    }
+
+    .container .c {
+        position:  static;
+
+        height: auto;
+        width: auto;
+
+    }
+
+
+    .container .d {
+        position:  static;
+        height: auto;
+        width: auto;
+    } 
+
+
+    .container img {
+        margin-bottom: 10px;
+    }
+
+    .contact .item {
+        width: auto;
+        height: auto;
+    }
+
+    footer .contact {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+        gap: 1rem;
+    }
+
+
+
+}
+
+
+
+
+@media (width < 400px) {
+    .firstsec {
+        padding: 100px 10px;
+    }
+
+
+    .firstsec .butns button{ 
+        font-size: 0.8rem;
+      
+    }
+
+    .secondsec .para {
+        padding-left: 0;
+    }
+
+    .navbar .navicons ul {
+       position: absolute;
+       top:  500%;
+       z-index: 3;
+       right: -500px;
+       transition: 0.3s;
+    }
+
+
+    .navbar .navicons ul.mag.active {
+       right: 10%;
+      margin: auto;
+      
+       
+    }
+
+    .thirdsec .gridcontainer {
+        padding-left: 18px;
+    }
+
+    .secondsec .images {
+        width: 400px;
+        margin-right: 30px;
+    }
+
+    .secondsec .overlapcircle {
+        height: 100px;
+        width: 100px;
+    }
+
+
+    .secondsec .overlapcircle h3 {
+        font-size: 0.7rem;
+    }
+
+    .gridbox p {
+        font-size: 1rem;
+    }
+
+    .gridbox {
+      display: block;
+      padding-left: 30px;
+    }
+
+    .fifthsec .nbox {
+        display: block;
+        height: auto;
+        gap: 1rem;
+    }
+
+    .upper .num {
+        width: 100%;
+        margin-bottom: 30px;
+    }
+
+    .para> p {
+        margin-bottom: 40px;
+    }
+
+    .fourthsec .container {
+        padding: 0 10px;
+    }
+
+    .navicons ul li  a {
+        margin-right: 20px;
+        color: white;
+    }
+
+    .navbar ul li {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .a-2 .image-last {
+        width: 100%;
+        height: auto;
+        margin-bottom: 20px;
+
+    }
+
+    .a-2 .img {
+        position: static;
+        height: auto;
+        width: auto;
+        margin-bottom: 10px;
+    }
+
+    .a-2 .box {
+        position: static;
+        width: 100%;
+    }
+
+
+    .a-2 .text-last {
+        padding: 0 10px;
+        width: 100%;
+        margin-bottom: 100px;
+    }
+
+    .text-last p {
+        font-size: 1.2rem;
+        margin-bottom: 20px;
+    }
+
+
+
+    .item .logo img {
+        left: -20%;
+    }
+}
+
+
+@media ( width < 444px) {
+    .firstsec .para {
+        width: 100%;
+    }
+
+    .firstsec {
+        padding: 100px 10px;
+    }
+}
